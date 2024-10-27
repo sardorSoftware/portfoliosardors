@@ -1,0 +1,21 @@
+import React from 'react'
+import './skill.css';
+import Frontend from './Frontend'
+import UiUxdesign from './UiUxDesign'
+
+
+const Skills = () => {
+  return (
+	<section className='skills section'>
+		<h2 className='section__title'>Skills</h2>
+		<span className="section__subtitle">My technical level</span>
+
+		<div className="skills__container container grid">
+			<Frontend />
+			<UiUxdesign />
+		</div>
+	</section>
+  )
+}
+
+export default Skills
