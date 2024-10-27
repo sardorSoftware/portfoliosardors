@@ -4,7 +4,7 @@ const Social = () => {
 	return (
 		<div className='home__social'>
 			<a
-				href='https://www.facebook.com/sardorsardor'
+				href='https://www.instagram.com/1sr.z_?igsh=b3czM3R6d21nbXBo&utm_source=qr'
 				className='home__social-icon'
 				target='_blank'
 			>
@@ -12,7 +12,7 @@ const Social = () => {
 			</a>
 
 			<a
-				href='https://www.facebook.com/sardorsardor'
+				href='www.linkedin.com/in/sardor-zokirjonov-3b1900311'
 				className='home__social-icon'
 				target='_blank'
 			>
@@ -20,7 +20,7 @@ const Social = () => {
 			</a>
 
 			<a
-				href='https://www.facebook.com/sardorsardor'
+				href='https://github.com/sardorSoftware'
 				className='home__social-icon'
 				target='_blank'
 			>
