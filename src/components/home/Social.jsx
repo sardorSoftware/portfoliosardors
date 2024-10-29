@@ -12,11 +12,12 @@ const Social = () => {
 			</a>
 
 			<a
-				href='www.linkedin.com/in/sardor-zokirjonov-3b1900311'
+				href='www.linkedin.com/in/
+sardor-zokirjonov'
 				className='home__social-icon'
 				target='_blank'
 			>
-				<i className='uil uil-dribbble '></i>
+				<i className='uil uil-linkedin-alt '></i>
 			</a>
 
 			<a
