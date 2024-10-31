@@ -49,8 +49,8 @@ const Qualification = () => {
 					>
 						<div className='qualification__data'>
 							<div>
-								<h3 className='qualification__title'>Frontend developer</h3>
-								<span className='qualification__subtitle'>React</span>
+								<h3 className='qualification__title'>Frontend development</h3>
+								<span className='qualification__subtitle'>tramplin academy</span>
 								<div className='qualification__calendar'>
 									<i className='uil uil-calendar-alt'></i> 2024 - Present
 								</div>
@@ -71,39 +71,7 @@ const Qualification = () => {
 							</div>
 
 							<div>
-								<h3 className='qualification__title'>Web Designer</h3>
-								<span className='qualification__subtitle'>Figma</span>
-								<div className='qualification__calendar'>
-									<i className='uil uil-calendar-alt'></i> 2024 - Present
-								</div>
-							</div>
-						</div>
-
-						<div className='qualification__data'>
-							<div>
-								<h3 className='qualification__title'>Web Development</h3>
-								<span className='qualification__subtitle'>React</span>
-								<div className='qualification__calendar'>
-									<i className='uil uil-calendar-alt'></i> 2024 - Present
-								</div>
-							</div>
-
-							<div>
-								<span className='qualification__rounder'></span>
-								<span className='qualification__line'></span>
-							</div>
-						</div>
-
-						<div className='qualification__data'>
-							<div></div>
-
-							<div>
-								<span className='qualification__rounder'></span>
-								<span className='qualification__line'></span>
-							</div>
-
-							<div>
-								<h3 className='qualification__title'>UX Expert</h3>
+								<h3 className='qualification__title'>UI/UX Designer</h3>
 								<span className='qualification__subtitle'>Figma</span>
 								<div className='qualification__calendar'>
 									<i className='uil uil-calendar-alt'></i> 2024 - Present
@@ -121,8 +89,8 @@ const Qualification = () => {
 					>
 						<div className='qualification__data'>
 							<div>
-								<h3 className='qualification__title'>Product Designer</h3>
-								<span className='qualification__subtitle'>React</span>
+								<h3 className='qualification__title'>Project manager</h3>
+								<span className='qualification__subtitle'>Real project</span>
 								<div className='qualification__calendar'>
 									<i className='uil uil-calendar-alt'></i> 2024 - Present
 								</div>
@@ -143,28 +111,14 @@ const Qualification = () => {
 							</div>
 
 							<div>
-								<h3 className='qualification__title'>UX Designer</h3>
-								<span className='qualification__subtitle'>Figma</span>
+								<h3 className='qualification__title'>Math expert</h3>
+								<span className='qualification__subtitle'>known with algoritms</span>
 								<div className='qualification__calendar'>
-									<i className='uil uil-calendar-alt'></i> 2024 - Present
+									<i className='uil uil-calendar-alt'></i> 2023 - Present
 								</div>
 							</div>
 						</div>
 
-						<div className='qualification__data'>
-							<div>
-								<h3 className='qualification__title'>UI designer</h3>
-								<span className='qualification__subtitle'>React</span>
-								<div className='qualification__calendar'>
-									<i className='uil uil-calendar-alt'></i> 2024 - Present
-								</div>
-							</div>
-
-							<div>
-								<span className='qualification__rounder'></span>
-								<span className='qualification__line'></span>
-							</div>
-						</div>
 					</div>
 				</div>
 			</div>

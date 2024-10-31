@@ -30,7 +30,7 @@ const Contact = () => {
 
 							<h3 className='contact__cart-title'>Email</h3>
 							<span className='contact__cart-data'>frontendmii@gmail.com</span>
-
+							<br />
 							<a
 								href='mailto:examplemail@gmail.com.com'
 								class='contact__button'
@@ -44,8 +44,11 @@ const Contact = () => {
 
 							<h3 className='contact__cart-title'>Whatsapp</h3>
 							<span className='contact__cart-data'>+998943502677</span>
-
-							<a href='' class='contact__button'>
+							<br />
+							<a
+								href='https://api.whatsapp.com/send/?phone=998943502677&text&type=phone_number&app_absent=0'
+								class='contact__button'
+							>
 								Write me{''} <i className='bx bx-right-arrow-alt'></i>
 							</a>
 						</div>
@@ -55,7 +58,7 @@ const Contact = () => {
 
 							<h3 className='contact__cart-title'>Telegram</h3>
 							<span className='contact__cart-data'>@dr9amus</span>
-
+							<br />
 							<a href='' class='contact__button'>
 								Write me{''} <i className='bx bx-right-arrow-alt'></i>
 							</a>
